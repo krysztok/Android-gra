@@ -1,0 +1,12 @@
+
+Items.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+items8x8
+  rotate: false
+  xy: 1, 1
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1

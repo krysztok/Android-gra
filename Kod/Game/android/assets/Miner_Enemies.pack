@@ -1,0 +1,19 @@
+
+Miner_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+miner
+  rotate: false
+  xy: 1, 19
+  size: 280, 32
+  orig: 280, 32
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 1
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
